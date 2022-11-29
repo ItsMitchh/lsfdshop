@@ -1,12 +1,12 @@
 module.exports = {
   // Global CloudCannon configuration
-  _inputs: {
+  inputs: {
     title: {
       type: 'text',
       comment: 'The title of your page.'
     }
   },
-  _select_data: {
+  select_data: {
     colors: ['Red', 'Green', 'Blue']
   },
 
